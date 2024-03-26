@@ -6,4 +6,7 @@ public class CalculadoraTeste {
         double soma = calc.somar(97, 3);
         System.out.println(soma);
     }
+    public double subtrair(double a, double b){
+        return a - b;
+    }
 }
